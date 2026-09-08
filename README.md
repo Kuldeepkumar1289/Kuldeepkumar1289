@@ -1,26 +1,52 @@
-# Hi there, I'm Kuldeep Kumar 👋
+<div align="center">
+Hi, I'm Kuldeep 👋
+AI Full-Stack Developer | Python & Django
 
-B.Tech student in **Artificial Intelligence & Data Science (2023–2027)** passionate about Full-Stack Web Development, Django backend architecture, and relational database optimization.
+B.Tech student in Artificial Intelligence & Data Science (2023 – 2027), building full-stack web applications with Django and integrating LLMs to solve real-world problems.
 
-### 🛠 Tech Stack & Skills
-- **Languages:** Python, SQL, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** Django Framework, React.js, Tailwind CSS
-- **AI & NLP:** Google Gemini API, spaCy, PyMuPDF, PyPDF2
-- **Databases:** MySQL / Relational SQL
-- **Tools & Deployment:** Git, GitHub, Gunicorn, WhiteNoise, Render Cloud
+Email LinkedIn Portfolio
 
----
+</div>
+About Me
+🔭 Currently building Resume2Job AI, an end-to-end hiring platform with LLM-powered resume-to-job matching
+🌱 Deepening my knowledge of backend architecture, relational databases, and API design
+💡 Interested in how AI can be integrated into practical, production-ready web applications
+📫 Reach me at kuldeepkumar76106@gmail.com
+🛠 Tech Stack
 
-### 🚀 Featured Live Projects
-- 📄 **[Resume2Job AI](https://resume2job-ai-1.onrender.com/login/)** — End-to-end AI hiring platform with dual candidate/recruiter workflows and Gemini-driven semantic job matching.
-- 🌐 **[Personal Developer Portfolio](https://my-django-portfolio-15y9.onrender.com/)** — Production-ready minimalist developer portfolio hosted live on Render.
+Languages Python JavaScript SQL HTML CSS
 
----
+Frameworks & Libraries Django React.js Tailwind CSS
 
-### 📄 Resume & Links
+AI & NLP Integration Google Gemini API spaCy PyMuPDF PyPDF2
 
-[![View Resume](https://img.shields.io/badge/VIEW_RESUME-PDF-007ACC?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/Kuldeepkumar1289/Kuldeepkumar1289/blob/main/Kuldeep_Resume%20(1).pdf)
+Databases MySQL SQL
 
-- **LinkedIn:** [linkedin.com/in/kuldeep-kumar-552937260](https://www.linkedin.com/in/kuldeep-kumar-552937260)
-- **Portfolio:** [my-django-portfolio-15y9.onrender.com](https://my-django-portfolio-15y9.onrender.com/)
-- **Email:** [kuldeepkumar76106@gmail.com](mailto:kuldeepkumar76106@gmail.com)
+Tools & Deployment Git GitHub Gunicorn WhiteNoise Render
+
+🚀 Featured Projects
+Resume2Job AI
+
+End-to-end AI hiring platform with dual candidate/recruiter dashboards. Integrates the Google Gemini API for LLM-based semantic matching between resumes and job descriptions, plus built-in ATS diagnostics for skill-gap and keyword analysis.
+
+Stack: Python · Django · Google Gemini API · SQL · spaCy · PyMuPDF · Gunicorn
+
+Personal Developer Portfolio
+
+A production-ready, minimalist developer portfolio built on Django's MVC architecture, with optimized static asset delivery and continuous deployment on Render.
+
+Stack: Python · Django · Tailwind CSS · Gunicorn
+
+🏆 Hackathons & Achievements
+National Level Hackathon 2024, WCTM — Built a Smart Education prototype with adaptive learning modules; improved backend latency by 15%
+Techfest 2025, WCTM — Database Manager for an Intelligent Quiz Maker app with real-time, adaptive scoring
+📄 Resume
+
+View Resume
+
+🔗 Connect
+	
+LinkedIn	linkedin.com/in/kuldeep-kumar-552937260
+Portfolio	my-django-portfolio-15y9.onrender.com
+Email	kuldeepkumar76106@gmail.com
+<div align="center"> <sub>Thanks for stopping by — feel free to explore my repositories and reach out!</sub> </div>
