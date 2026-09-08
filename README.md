@@ -46,7 +46,7 @@ View Resume
 
 🔗 Connect
 	
-LinkedIn	linkedin.com/in/kuldeep-kumar-552937260
-Portfolio	my-django-portfolio-15y9.onrender.com
+LinkedIn	linkedin.com/in/kuldeep-kumar-552937260 |
+Portfolio	my-django-portfolio-15y9.onrender.com |
 Email	kuldeepkumar76106@gmail.com
 <div align="center"> <sub>Thanks for stopping by — feel free to explore my repositories and reach out!</sub> </div>
